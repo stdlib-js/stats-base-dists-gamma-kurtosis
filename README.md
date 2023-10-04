@@ -67,7 +67,7 @@ The [excess kurtosis][kurtosis] for a [gamma][gamma-distribution] random variabl
 ## Usage
 
 ```javascript
-import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gamma-kurtosis@deno/mod.js';
+import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gamma-kurtosis@v0.1.1-deno/mod.js';
 ```
 
 #### kurtosis( alpha, beta )
@@ -138,7 +138,7 @@ v = kurtosis( 1.0, -1.0 );
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import EPS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-eps@deno/mod.js';
-import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gamma-kurtosis@deno/mod.js';
+import kurtosis from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-gamma-kurtosis@v0.1.1-deno/mod.js';
 
 var alpha;
 var beta;
