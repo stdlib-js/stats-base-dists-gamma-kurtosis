@@ -2,6 +2,62 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-12-21)
+
+<section class="features">
+
+### Features
+
+-   [`cf1fd6a`](https://github.com/stdlib-js/stdlib/commit/cf1fd6a5a6e83c345aa5ad0ff830c0cbbfa3a15d) - add C implementation for `stats/base/dists/gamma/kurtosis` [(#4129)](https://github.com/stdlib-js/stdlib/pull/4129)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3619](https://github.com/stdlib-js/stdlib/issues/3619)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`cf1fd6a`](https://github.com/stdlib-js/stdlib/commit/cf1fd6a5a6e83c345aa5ad0ff830c0cbbfa3a15d) - **feat:** add C implementation for `stats/base/dists/gamma/kurtosis` [(#4129)](https://github.com/stdlib-js/stdlib/pull/4129) _(by Prashant Kumar Yadav)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Prashant Kumar Yadav
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-27)
